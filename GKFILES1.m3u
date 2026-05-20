@@ -1,142 +1,196 @@
 #EXTM3U tvg-shift="+05:30"
-#PLAYLIST: Live TV - All Channels (46 channels)
-#GENERATED: 2026-05-20 11:33:41
+#PLAYLIST: Live TV - All Channels (64 channels)
+#GENERATED: 2026-05-20 11:57:14
 #SOURCE: Curated via M3U Editor
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21304-je859a3c-v1/imageContent-21304-je859a3c-m1.png" group-title="Telugu",Zee Telugu HD
-https://dev.denver69.fun/TP/manifest.mpd?id=635|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNTelugu.png" group-title="JioTv+ TELUGU",Cartoon Network Telugu
+https://servertvhub.site/jiotv+/mpd.php?id=166
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8845-j7ppmm28-v3/imageContent-8845-j7ppmm28-m7.png" group-title="Telugu",Zee Telugu
-https://dev.denver69.fun/TP/manifest.mpd?id=250|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemalu.png" group-title="JioTv+ TELUGU",Zee Cinemalu
+https://servertvhub.site/jiotv+/mpd.php?id=413
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11444-j9jqx6a8-v1/imageContent-11444-j9jqx6a8-m1.png" group-title="Telugu",Gemini TV HD
-https://dev.denver69.fun/TP/manifest.mpd?id=355|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png" group-title="JioTv+ TELUGU",Nick Telugu
+https://servertvhub.site/jiotv+/mpd.php?id=543
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66705-kuqnqhwg-v1/imageContent-66705-kuqnqhwg-m1.png" group-title="Telugu",STAR Maa HD
-https://dev.denver69.fun/TP/manifest.mpd?id=956|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kushi_TV.png" group-title="JioTv+ TELUGU",Kushi TV
+https://servertvhub.site/jiotv+/mpd.php?id=558
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25361-jhsvr3nc-v1/imageContent-25361-jhsvr3nc-m1.png" group-title="Telugu",STAR Maa HD
-https://dev.denver69.fun/TP/manifest.mpd?id=516|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title="JioTv+ TELUGU",Discovery Telugu
+https://servertvhub.site/jiotv+/mpd.php?id=576
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11418-j9jqpvxs-v1/imageContent-11418-j9jqpvxs-m1.png" group-title="Telugu",ETV HD
-https://dev.denver69.fun/TP/manifest.mpd?id=359|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png" group-title="JioTv+ TELUGU",History TV18 HD Telugu
+https://servertvhub.site/jiotv+/mpd.php?id=577
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-492-j5jxvaeo-v1/imageContent-492-j5jxvaeo-m1.png" group-title="Telugu",ETV Telugu
-https://dev.denver69.fun/TP/manifest.mpd?id=145|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Venkateshwar_Bhakti.png" group-title="JioTv+ TELUGU",Sri Venkateshwar Bhakti
+https://servertvhub.site/jiotv+/mpd.php?id=598
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11437-j9jqv7ao-v2/imageContent-11437-j9jqv7ao-m2.png" group-title="Telugu",Gemini Life
-https://dev.denver69.fun/TP/manifest.mpd?id=361|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Subhavartha_TV.png" group-title="JioTv+ TELUGU",Subhavartha TV
+https://servertvhub.site/jiotv+/mpd.php?id=607
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ETVPLHD_Thumbnail-v1/ETVPLHD_Thumbnail.png" group-title="Telugu",ETV Plus HD
-https://dev.denver69.fun/TP/manifest.mpd?id=1342|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Telugu_News.png" group-title="JioTv+ TELUGU",TV9 Telugu News
+https://servertvhub.site/jiotv+/mpd.php?id=618
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11423-j9jqqegg-v1/imageContent-11423-j9jqqegg-m1.png" group-title="Telugu",ETV Plus
-https://dev.denver69.fun/TP/manifest.mpd?id=352|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sakshi_tv.png" group-title="JioTv+ TELUGU",Sakshi tv
+https://servertvhub.site/jiotv+/mpd.php?id=632
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12186-j9plqam8-v4/imageContent-12186-j9plqam8-m5.png" group-title="Telugu",Telugu Naaptol
-https://dev.denver69.fun/TP/manifest.mpd?id=590|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTelugu.png" group-title="JioTv+ TELUGU",Zee Telugu
+https://servertvhub.site/jiotv+/mpd.php?id=638
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12164-j9phk5iw-v1/imageContent-12164-j9phk5iw-m1.png" group-title="Telugu",Vissa TV
-https://dev.denver69.fun/TP/manifest.mpd?id=585|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NTV.png" group-title="JioTv+ TELUGU",NTV
+https://servertvhub.site/jiotv+/mpd.php?id=646
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/MAHAMAX_Thumbnail-v2/MAHAMAX_Thumbnail.png" group-title="Telugu",Mahaa Max
-https://dev.denver69.fun/TP/manifest.mpd?id=1389|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Telugu.png" group-title="JioTv+ TELUGU",Raj News Telugu
+https://servertvhub.site/jiotv+/mpd.php?id=664
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11438-j9jqvyaw-v1/imageContent-11438-j9jqvyaw-m1.png" group-title="Telugu",Gemini Movies HD
-https://dev.denver69.fun/TP/manifest.mpd?id=362|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/HM_TV.png" group-title="JioTv+ TELUGU",HM TV
+https://servertvhub.site/jiotv+/mpd.php?id=665
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18348-jcqpx9ns-v1/imageContent-18348-jcqpx9ns-m1.PNG" group-title="Telugu",Star Maa Movies HD
-https://dev.denver69.fun/TP/manifest.mpd?id=387|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" group-title="JioTv+ TELUGU",ABN Andhra Jyothi
+https://servertvhub.site/jiotv+/mpd.php?id=666
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66770-kuwalqkg-v1/imageContent-66770-kuwalqkg-m1.png" group-title="Telugu",Star Maa Movies HD
-https://dev.denver69.fun/TP/manifest.mpd?id=957|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/T_News.png" group-title="JioTv+ TELUGU",T News
+https://servertvhub.site/jiotv+/mpd.php?id=667
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66595-kupdpd9k-v1/imageContent-66595-kupdpd9k-m1.png" group-title="Telugu",Star Maa Gold
-https://dev.denver69.fun/TP/manifest.mpd?id=954|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_News.png" group-title="JioTv+ TELUGU",TV 5 News
+https://servertvhub.site/jiotv+/mpd.php?id=668
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11553-j9julvag-v3/imageContent-11553-j9julvag-m6.png" group-title="Telugu",Star Maa Gold
-https://dev.denver69.fun/TP/manifest.mpd?id=388|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/6_TV.png" group-title="JioTv+ TELUGU",6 TV
+https://servertvhub.site/jiotv+/mpd.php?id=670
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21307-je859sm0-v1/imageContent-21307-je859sm0-m2.png" group-title="Telugu",Zee Cinemalu HD
-https://dev.denver69.fun/TP/manifest.mpd?id=636|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Life.png" group-title="JioTv+ TELUGU",Sun Gemini Life
+https://servertvhub.site/jiotv+/mpd.php?id=684
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8849-j7pqmypc-v2/imageContent-8849-j7pqmypc-m3.png" group-title="Telugu",Zee Cinemalu
-https://dev.denver69.fun/TP/manifest.mpd?id=252|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Saptagiri.png" group-title="JioTv+ TELUGU",DD Saptagiri
+https://servertvhub.site/jiotv+/mpd.php?id=706
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ETVCINHD_Thumbnail-v1/ETVCINHD_Thumbnail.png" group-title="Telugu",ETV Cinema HD
-https://dev.denver69.fun/TP/manifest.mpd?id=1341|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Comedy.png" group-title="JioTv+ TELUGU",Sun Gemini Comedy
+https://servertvhub.site/jiotv+/mpd.php?id=729
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-426-j5jsm1wo-v1/imageContent-426-j5jsm1wo-m1.png" group-title="Telugu",ETV Cinema
-https://dev.denver69.fun/TP/manifest.mpd?id=128|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vissa_TV.png" group-title="JioTv+ TELUGU",Vissa TV
+https://servertvhub.site/jiotv+/mpd.php?id=734
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ETVLI_Thumbnail-v5/ETVLI_Thumbnail.png" group-title="Telugu",ETV Life
-https://dev.denver69.fun/TP/manifest.mpd?id=268|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png" group-title="JioTv+ TELUGU",Raj Music Telugu
+https://servertvhub.site/jiotv+/mpd.php?id=737
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12260-j9qv0lz4-v1/imageContent-12260-j9qv0lz4-m1.png" group-title="Telugu",Sakshi TV
-https://dev.denver69.fun/TP/manifest.mpd?id=596|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies_HD.png" group-title="JioTv+ TELUGU",Maa Movies HD
+https://servertvhub.site/jiotv+/mpd.php?id=760
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-498-j5jy7i80-v1/imageContent-498-j5jy7i80-m1.png" group-title="Telugu",ETV Andhra Pradesh
-https://dev.denver69.fun/TP/manifest.mpd?id=146|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/V6_News.png" group-title="JioTv+ TELUGU",V6 News
+https://servertvhub.site/jiotv+/mpd.php?id=769
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11329-j9jot000-v2/imageContent-11329-j9jot000-m2.png" group-title="Telugu",TV5 News
-https://dev.denver69.fun/TP/manifest.mpd?id=320|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_OM_Spiritual.png" group-title="JioTv+ TELUGU",CVR OM Spiritual
+https://servertvhub.site/jiotv+/mpd.php?id=772
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-30-j5fc0v80-v2/imageContent-30-j5fc0v80-m2.png" group-title="Telugu",TV9 Telugu
-https://dev.denver69.fun/TP/manifest.mpd?id=11|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_Health.png" group-title="JioTv+ TELUGU",CVR Health
+https://servertvhub.site/jiotv+/mpd.php?id=774
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-586-j5kz3qkw-v1/imageContent-586-j5kz3qkw-m1.png" group-title="Telugu",NTV Telugu
-https://dev.denver69.fun/TP/manifest.mpd?id=160|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vanitha.png" group-title="JioTv+ TELUGU",Vanitha
+https://servertvhub.site/jiotv+/mpd.php?id=775
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-951-j5mipdzs-v1/imageContent-951-j5mipdzs-m1.png" group-title="Telugu",ABN Andhra Jyothy
-https://dev.denver69.fun/TP/manifest.mpd?id=225|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bhakti_TV.png" group-title="JioTv+ TELUGU",Bhakti TV
+https://servertvhub.site/jiotv+/mpd.php?id=776
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11194-j9i4cz80-v1/imageContent-11194-j9i4cz80-m1.png" group-title="Telugu",V6 Telugu
-https://dev.denver69.fun/TP/manifest.mpd?id=274|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aradhana_TV.png" group-title="JioTv+ TELUGU",Aradhana TV
+https://servertvhub.site/jiotv+/mpd.php?id=777
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-255-j5fz95pc-v1/imageContent-255-j5fz95pc-m1.png" group-title="Telugu",ETV Telangana
-https://dev.denver69.fun/TP/manifest.mpd?id=83|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_News.png" group-title="JioTv+ TELUGU",CVR News
+https://servertvhub.site/jiotv+/mpd.php?id=784
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11470-j9jr4uio-v1/imageContent-11470-j9jr4uio-m1.png" group-title="Telugu",HM TV
-https://dev.denver69.fun/TP/manifest.mpd?id=349|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/I_News.png" group-title="JioTv+ TELUGU",I News
+https://servertvhub.site/jiotv+/mpd.php?id=790
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11697-j9kjhxs0-v3/imageContent-11697-j9kjhxs0-m3.png" group-title="Telugu",Raj News Telugu
-https://dev.denver69.fun/TP/manifest.mpd?id=430|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/10_TV.png" group-title="JioTv+ TELUGU",10 TV
+https://servertvhub.site/jiotv+/mpd.php?id=832
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-17564-jclrk6pk-v1/imageContent-17564-jclrk6pk-m1.png" group-title="Telugu",10 TV
-https://dev.denver69.fun/TP/manifest.mpd?id=266|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyYAYTel.png" group-title="JioTv+ TELUGU",Sony Yay Telugu
+https://servertvhub.site/jiotv+/mpd.php?id=874
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47248-k1vn9ouw-v2/imageContent-47248-k1vn9ouw-m4.png" group-title="Telugu",4tv News
-https://dev.denver69.fun/TP/manifest.mpd?id=774|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_TV_HD.png" group-title="JioTv+ TELUGU",Sun Gemini HD
+https://servertvhub.site/jiotv+/mpd.php?id=897
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ZTELNEWS_Thumbnail-v1/ZTELNEWS_Thumbnail.png" group-title="Telugu",Zee Telugu News
-https://dev.denver69.fun/TP/manifest.mpd?id=1288|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Music_HD.png" group-title="JioTv+ TELUGU",Sun Gemini Music HD
+https://servertvhub.site/jiotv+/mpd.php?id=898
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11381-j9jq1pkg-v1/imageContent-11381-j9jq1pkg-m1.png" group-title="Telugu",DD Saptagiri
-https://dev.denver69.fun/TP/manifest.mpd?id=337|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png" group-title="JioTv+ TELUGU",Sun Gemini Movies HD
+https://servertvhub.site/jiotv+/mpd.php?id=899
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11392-j9jq3lgw-v3/imageContent-11392-j9jq3lgw-m2.png" group-title="Telugu",DD Yadagiri
-https://dev.denver69.fun/TP/manifest.mpd?id=548|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Divya_Vani.png" group-title="JioTv+ TELUGU",Divya Vani
+https://servertvhub.site/jiotv+/mpd.php?id=934
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11691-j9kj50i0-v1/imageContent-11691-j9kj50i0-m1.png" group-title="Telugu",Raj Musix Telugu
-https://dev.denver69.fun/TP/manifest.mpd?id=429|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hindu_Dharmam.png" group-title="JioTv+ TELUGU",Hindu Dharmam
+https://servertvhub.site/jiotv+/mpd.php?id=955
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11242-j9irisyw-v2/imageContent-11242-j9irisyw-m2.png" group-title="Telugu",Bhakti TV
-https://dev.denver69.fun/TP/manifest.mpd?id=290|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Calvary.png" group-title="JioTv+ TELUGU",Calvary
+https://servertvhub.site/jiotv+/mpd.php?id=977
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11745-j9kwb568-v2/imageContent-11745-j9kwb568-m3.png" group-title="Telugu",Shubhavaarta TV
-https://dev.denver69.fun/TP/manifest.mpd?id=445|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNHDTelugu.png" group-title="JioTv+ TELUGU",Cartoon Network HD+ Telugu
+https://servertvhub.site/jiotv+/mpd.php?id=1080
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11224-j9iclykw-v1/imageContent-11224-j9iclykw-m2.png" group-title="Telugu",Aradana TV
-https://dev.denver69.fun/TP/manifest.mpd?id=285|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies.png" group-title="JioTv+ TELUGU",Maa Movies
+https://servertvhub.site/jiotv+/mpd.php?id=1111
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33495-jnqw9k9c-v4/imageContent-33495-jnqw9k9c-m5.png" group-title="Telugu",Swara Sagar
-https://dev.denver69.fun/TP/manifest.mpd?id=351|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_HD.png" group-title="JioTv+ TELUGU",Maa HD
+https://servertvhub.site/jiotv+/mpd.php?id=1112
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18536-jct505dc-v2/imageContent-18536-jct505dc-m2.png" group-title="Telugu",Hindu Dharmam
-https://dev.denver69.fun/TP/manifest.mpd?id=630|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png" group-title="JioTv+ TELUGU",Maa Music
+https://servertvhub.site/jiotv+/mpd.php?id=1129
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-38738-juc4a1ig-v5/imageContent-38738-juc4a1ig-m8.png" group-title="Telugu",Jaya TV HD
-https://dev.denver69.fun/TP/manifest.mpd?id=708|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold.png" group-title="JioTv+ TELUGU",Maa Gold
+https://servertvhub.site/jiotv+/mpd.php?id=1137
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11882-j9l3qcrs-v1/imageContent-11882-j9l3qcrs-m1.png" group-title="Telugu",SVBC 2
-https://dev.denver69.fun/TP/manifest.mpd?id=490|Origin=https://watch.tataplay.com
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Maa.png" group-title="JioTv+ TELUGU",Star Maa
+https://servertvhub.site/jiotv+/mpd.php?id=1138
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png" group-title="JioTv+ TELUGU",Sonic Telugu
+https://servertvhub.site/jiotv+/mpd.php?id=1242
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Telugu.png" group-title="JioTv+ TELUGU",Aastha Telugu
+https://servertvhub.site/jiotv+/mpd.php?id=1254
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Studio_One.png" group-title="JioTv+ TELUGU",Studio One
+https://servertvhub.site/jiotv+/mpd.php?id=1274
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTeluguHD.png" group-title="JioTv+ TELUGU",Zee Telugu HD
+https://servertvhub.site/jiotv+/mpd.php?id=1354
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemaluHD.png" group-title="JioTv+ TELUGU",Zee Cinemalu HD
+https://servertvhub.site/jiotv+/mpd.php?id=1363
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Studio_Yuva_Alpha.png" group-title="JioTv+ TELUGU",Studio Yuva Alpha
+https://servertvhub.site/jiotv+/mpd.php?id=1799
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Telugu.png" group-title="JioTv+ TELUGU",Pogo Telugu
+https://servertvhub.site/jiotv+/mpd.php?id=1883
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PMC_Telugu.png" group-title="JioTv+ TELUGU",PMC Telugu
+https://servertvhub.site/jiotv+/mpd.php?id=1975
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swatantra_News.png" group-title="JioTv+ TELUGU",Swatantra News
+https://servertvhub.site/jiotv+/mpd.php?id=2187
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Prime_9_News.png" group-title="JioTv+ TELUGU",Prime 9 News
+https://servertvhub.site/jiotv+/mpd.php?id=2436
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Big_TV.png" group-title="JioTv+ TELUGU",Big TV
+https://servertvhub.site/jiotv+/mpd.php?id=2783
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mahaa_News.png" group-title="JioTv+ TELUGU",Mahaa News
+https://servertvhub.site/jiotv+/mpd.php?id=2862
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/99TV.png" group-title="JioTv+ TELUGU",99 TV
+https://servertvhub.site/jiotv+/mpd.php?id=2932
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_360.png" group-title="JioTv+ TELUGU",News 360
+https://servertvhub.site/jiotv+/mpd.php?id=3018
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu_News.png" group-title="JioTv+ TELUGU",Zee Telugu News
+https://servertvhub.site/jiotv+/mpd.php?id=3031
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sai_TV_Telugu.png" group-title="JioTv+ TELUGU",Sai TV Telugu
+https://servertvhub.site/jiotv+/mpd.php?id=3087
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Telugu_Naaptol.png" group-title="JioTv+ TELUGU",Telugu Naaptol
+https://servertvhub.site/jiotv+/mpd.php?id=3176
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryKidsTel.png" group-title="JioTv+ TELUGU",Discovery Kids Telugu
+https://servertvhub.site/jiotv+/mpd.php?id=3447

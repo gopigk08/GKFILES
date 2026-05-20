@@ -1,0 +1,142 @@
+#EXTM3U tvg-shift="+05:30"
+#PLAYLIST: Live TV - All Channels (46 channels)
+#GENERATED: 2026-05-20 11:33:41
+#SOURCE: Curated via M3U Editor
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21304-je859a3c-v1/imageContent-21304-je859a3c-m1.png" group-title="Telugu",Zee Telugu HD
+https://dev.denver69.fun/TP/manifest.mpd?id=635|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8845-j7ppmm28-v3/imageContent-8845-j7ppmm28-m7.png" group-title="Telugu",Zee Telugu
+https://dev.denver69.fun/TP/manifest.mpd?id=250|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11444-j9jqx6a8-v1/imageContent-11444-j9jqx6a8-m1.png" group-title="Telugu",Gemini TV HD
+https://dev.denver69.fun/TP/manifest.mpd?id=355|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66705-kuqnqhwg-v1/imageContent-66705-kuqnqhwg-m1.png" group-title="Telugu",STAR Maa HD
+https://dev.denver69.fun/TP/manifest.mpd?id=956|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25361-jhsvr3nc-v1/imageContent-25361-jhsvr3nc-m1.png" group-title="Telugu",STAR Maa HD
+https://dev.denver69.fun/TP/manifest.mpd?id=516|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11418-j9jqpvxs-v1/imageContent-11418-j9jqpvxs-m1.png" group-title="Telugu",ETV HD
+https://dev.denver69.fun/TP/manifest.mpd?id=359|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-492-j5jxvaeo-v1/imageContent-492-j5jxvaeo-m1.png" group-title="Telugu",ETV Telugu
+https://dev.denver69.fun/TP/manifest.mpd?id=145|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11437-j9jqv7ao-v2/imageContent-11437-j9jqv7ao-m2.png" group-title="Telugu",Gemini Life
+https://dev.denver69.fun/TP/manifest.mpd?id=361|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ETVPLHD_Thumbnail-v1/ETVPLHD_Thumbnail.png" group-title="Telugu",ETV Plus HD
+https://dev.denver69.fun/TP/manifest.mpd?id=1342|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11423-j9jqqegg-v1/imageContent-11423-j9jqqegg-m1.png" group-title="Telugu",ETV Plus
+https://dev.denver69.fun/TP/manifest.mpd?id=352|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12186-j9plqam8-v4/imageContent-12186-j9plqam8-m5.png" group-title="Telugu",Telugu Naaptol
+https://dev.denver69.fun/TP/manifest.mpd?id=590|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12164-j9phk5iw-v1/imageContent-12164-j9phk5iw-m1.png" group-title="Telugu",Vissa TV
+https://dev.denver69.fun/TP/manifest.mpd?id=585|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/MAHAMAX_Thumbnail-v2/MAHAMAX_Thumbnail.png" group-title="Telugu",Mahaa Max
+https://dev.denver69.fun/TP/manifest.mpd?id=1389|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11438-j9jqvyaw-v1/imageContent-11438-j9jqvyaw-m1.png" group-title="Telugu",Gemini Movies HD
+https://dev.denver69.fun/TP/manifest.mpd?id=362|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18348-jcqpx9ns-v1/imageContent-18348-jcqpx9ns-m1.PNG" group-title="Telugu",Star Maa Movies HD
+https://dev.denver69.fun/TP/manifest.mpd?id=387|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66770-kuwalqkg-v1/imageContent-66770-kuwalqkg-m1.png" group-title="Telugu",Star Maa Movies HD
+https://dev.denver69.fun/TP/manifest.mpd?id=957|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66595-kupdpd9k-v1/imageContent-66595-kupdpd9k-m1.png" group-title="Telugu",Star Maa Gold
+https://dev.denver69.fun/TP/manifest.mpd?id=954|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11553-j9julvag-v3/imageContent-11553-j9julvag-m6.png" group-title="Telugu",Star Maa Gold
+https://dev.denver69.fun/TP/manifest.mpd?id=388|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21307-je859sm0-v1/imageContent-21307-je859sm0-m2.png" group-title="Telugu",Zee Cinemalu HD
+https://dev.denver69.fun/TP/manifest.mpd?id=636|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8849-j7pqmypc-v2/imageContent-8849-j7pqmypc-m3.png" group-title="Telugu",Zee Cinemalu
+https://dev.denver69.fun/TP/manifest.mpd?id=252|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ETVCINHD_Thumbnail-v1/ETVCINHD_Thumbnail.png" group-title="Telugu",ETV Cinema HD
+https://dev.denver69.fun/TP/manifest.mpd?id=1341|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-426-j5jsm1wo-v1/imageContent-426-j5jsm1wo-m1.png" group-title="Telugu",ETV Cinema
+https://dev.denver69.fun/TP/manifest.mpd?id=128|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ETVLI_Thumbnail-v5/ETVLI_Thumbnail.png" group-title="Telugu",ETV Life
+https://dev.denver69.fun/TP/manifest.mpd?id=268|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12260-j9qv0lz4-v1/imageContent-12260-j9qv0lz4-m1.png" group-title="Telugu",Sakshi TV
+https://dev.denver69.fun/TP/manifest.mpd?id=596|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-498-j5jy7i80-v1/imageContent-498-j5jy7i80-m1.png" group-title="Telugu",ETV Andhra Pradesh
+https://dev.denver69.fun/TP/manifest.mpd?id=146|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11329-j9jot000-v2/imageContent-11329-j9jot000-m2.png" group-title="Telugu",TV5 News
+https://dev.denver69.fun/TP/manifest.mpd?id=320|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-30-j5fc0v80-v2/imageContent-30-j5fc0v80-m2.png" group-title="Telugu",TV9 Telugu
+https://dev.denver69.fun/TP/manifest.mpd?id=11|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-586-j5kz3qkw-v1/imageContent-586-j5kz3qkw-m1.png" group-title="Telugu",NTV Telugu
+https://dev.denver69.fun/TP/manifest.mpd?id=160|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-951-j5mipdzs-v1/imageContent-951-j5mipdzs-m1.png" group-title="Telugu",ABN Andhra Jyothy
+https://dev.denver69.fun/TP/manifest.mpd?id=225|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11194-j9i4cz80-v1/imageContent-11194-j9i4cz80-m1.png" group-title="Telugu",V6 Telugu
+https://dev.denver69.fun/TP/manifest.mpd?id=274|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-255-j5fz95pc-v1/imageContent-255-j5fz95pc-m1.png" group-title="Telugu",ETV Telangana
+https://dev.denver69.fun/TP/manifest.mpd?id=83|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11470-j9jr4uio-v1/imageContent-11470-j9jr4uio-m1.png" group-title="Telugu",HM TV
+https://dev.denver69.fun/TP/manifest.mpd?id=349|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11697-j9kjhxs0-v3/imageContent-11697-j9kjhxs0-m3.png" group-title="Telugu",Raj News Telugu
+https://dev.denver69.fun/TP/manifest.mpd?id=430|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-17564-jclrk6pk-v1/imageContent-17564-jclrk6pk-m1.png" group-title="Telugu",10 TV
+https://dev.denver69.fun/TP/manifest.mpd?id=266|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47248-k1vn9ouw-v2/imageContent-47248-k1vn9ouw-m4.png" group-title="Telugu",4tv News
+https://dev.denver69.fun/TP/manifest.mpd?id=774|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ZTELNEWS_Thumbnail-v1/ZTELNEWS_Thumbnail.png" group-title="Telugu",Zee Telugu News
+https://dev.denver69.fun/TP/manifest.mpd?id=1288|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11381-j9jq1pkg-v1/imageContent-11381-j9jq1pkg-m1.png" group-title="Telugu",DD Saptagiri
+https://dev.denver69.fun/TP/manifest.mpd?id=337|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11392-j9jq3lgw-v3/imageContent-11392-j9jq3lgw-m2.png" group-title="Telugu",DD Yadagiri
+https://dev.denver69.fun/TP/manifest.mpd?id=548|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11691-j9kj50i0-v1/imageContent-11691-j9kj50i0-m1.png" group-title="Telugu",Raj Musix Telugu
+https://dev.denver69.fun/TP/manifest.mpd?id=429|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11242-j9irisyw-v2/imageContent-11242-j9irisyw-m2.png" group-title="Telugu",Bhakti TV
+https://dev.denver69.fun/TP/manifest.mpd?id=290|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11745-j9kwb568-v2/imageContent-11745-j9kwb568-m3.png" group-title="Telugu",Shubhavaarta TV
+https://dev.denver69.fun/TP/manifest.mpd?id=445|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11224-j9iclykw-v1/imageContent-11224-j9iclykw-m2.png" group-title="Telugu",Aradana TV
+https://dev.denver69.fun/TP/manifest.mpd?id=285|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33495-jnqw9k9c-v4/imageContent-33495-jnqw9k9c-m5.png" group-title="Telugu",Swara Sagar
+https://dev.denver69.fun/TP/manifest.mpd?id=351|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18536-jct505dc-v2/imageContent-18536-jct505dc-m2.png" group-title="Telugu",Hindu Dharmam
+https://dev.denver69.fun/TP/manifest.mpd?id=630|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-38738-juc4a1ig-v5/imageContent-38738-juc4a1ig-m8.png" group-title="Telugu",Jaya TV HD
+https://dev.denver69.fun/TP/manifest.mpd?id=708|Origin=https://watch.tataplay.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11882-j9l3qcrs-v1/imageContent-11882-j9l3qcrs-m1.png" group-title="Telugu",SVBC 2
+https://dev.denver69.fun/TP/manifest.mpd?id=490|Origin=https://watch.tataplay.com

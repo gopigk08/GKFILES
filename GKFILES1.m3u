@@ -1,241 +1,157 @@
 #EXTM3U tvg-shift="+05:30"
-#PLAYLIST: Live TV - All Channels (79 channels)
-#GENERATED: 2026-05-20 13:03:06
+#PLAYLIST: Live TV - All Channels (51 channels)
+#GENERATED: 2026-05-20 17:02:44
 #SOURCE: Curated via M3U Editor
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="AMAIRA TELUGU",Telugu: ETV (4K).
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=98885
+#EXTINF:-1 tvg-logo="" group-title="T-Play Telugu",Telugu: ETV
+https://playlist-alpha-steel.vercel.app/api/play?id=98885
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="AMAIRA TELUGU",Telugu: STAR-MAA (4K).
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=98886
+#EXTINF:-1 tvg-logo="" group-title="T-Play Telugu",Telugu: STAR-MAA
+https://playlist-alpha-steel.vercel.app/api/play?id=98886
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="AMAIRA TELUGU",Telugu: STAR-MAA-MOVIE (4K).
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=98887
+#EXTINF:-1 tvg-logo="" group-title="T-Play Telugu",Telugu: STAR-MAA-MOVIE
+https://playlist-alpha-steel.vercel.app/api/play?id=98887
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="AMAIRA TELUGU",Telugu: GEMINI (4K).
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=98892
+#EXTINF:-1 tvg-logo="" group-title="T-Play Telugu",Telugu: GEMINI
+https://playlist-alpha-steel.vercel.app/api/play?id=98892
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="AMAIRA TELUGU",Telugu: ZEE-TELUGU (4K).
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=98894
+#EXTINF:-1 tvg-logo="" group-title="T-Play Telugu",Telugu: ZEE-TELUGU
+https://playlist-alpha-steel.vercel.app/api/play?id=98894
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="AMAIRA TELUGU",Telugu: ZEE-CINEMALU (4K).
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=98896
+#EXTINF:-1 tvg-logo="" group-title="T-Play Telugu",Telugu: ZEE-CINEMALU
+https://playlist-alpha-steel.vercel.app/api/play?id=98896
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F3y8k7t/download-22.png" group-title="AMAIRA TELUGU",Telugu: TV 5 News
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=170
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F3y8k7t/download-22.png" group-title="T-Play Telugu",Telugu: TV 5 News
+https://playlist-alpha-steel.vercel.app/api/play?id=170
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yn807cB/download-21.png" group-title="AMAIRA TELUGU",Telugu: STAR MAA TV HD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=168
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yn807cB/download-21.png" group-title="T-Play Telugu",Telugu: STAR MAA TV
+https://playlist-alpha-steel.vercel.app/api/play?id=168
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VqQ1bBm/download-3.png" group-title="AMAIRA TELUGU",Telugu: Gemini_Movies_HD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=212
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VqQ1bBm/download-3.png" group-title="T-Play Telugu",Telugu: Gemini_Movies_HD
+https://playlist-alpha-steel.vercel.app/api/play?id=212
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vkJr9Cn/download-1-1.png" group-title="AMAIRA TELUGU",Telugu: Gemini_Music_HD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=213
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vkJr9Cn/download-1-1.png" group-title="T-Play Telugu",Telugu: Gemini_Music_HD
+https://playlist-alpha-steel.vercel.app/api/play?id=213
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SKJQvqR/Gemini-TV.png" group-title="AMAIRA TELUGU",Telugu: Gemini_TV_HD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=214
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SKJQvqR/Gemini-TV.png" group-title="T-Play Telugu",Telugu: Gemini_TV_HD
+https://playlist-alpha-steel.vercel.app/api/play?id=214
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT9j-h-4CiDAqFZA2ijrp4jj8dPM10fve8GA&usqp=CAU" group-title="AMAIRA TELUGU",Telugu: Sony_BBC_Earth_HD_Telugu
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=223
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT9j-h-4CiDAqFZA2ijrp4jj8dPM10fve8GA&usqp=CAU" group-title="T-Play Telugu",Telugu: Sony_BBC_Earth_HD_Telugu
+https://playlist-alpha-steel.vercel.app/api/play?id=223
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pZ891Tj/download-4-1.png" group-title="AMAIRA TELUGU",Telugu:  V6_News
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=228
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pZ891Tj/download-4-1.png" group-title="T-Play Telugu",Telugu: V6_News
+https://playlist-alpha-steel.vercel.app/api/play?id=228
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c2Rn5ss/download-26.png" group-title="AMAIRA TELUGU",Telugu:  Sri_Venkateshwar_Bhakti
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=233
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c2Rn5ss/download-26.png" group-title="T-Play Telugu",Telugu: Sri_Venkateshwar_Bhakti
+https://playlist-alpha-steel.vercel.app/api/play?id=233
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9snympp/images-1.png" group-title="AMAIRA TELUGU",Telugu:  ABN_Andhra_Jyothi
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=234
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9snympp/images-1.png" group-title="T-Play Telugu",Telugu: ABN_Andhra_Jyothi
+https://playlist-alpha-steel.vercel.app/api/play?id=234
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RDK2ZtJ/download-2-3.png" group-title="AMAIRA TELUGU",Telugu: NTV TELUGU
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=235
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RDK2ZtJ/download-2-3.png" group-title="T-Play Telugu",Telugu: NTV TELUGU
+https://playlist-alpha-steel.vercel.app/api/play?id=235
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7VdZqgH/download-2-2.png" group-title="AMAIRA TELUGU",Telugu: ETV Plus
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=242
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7VdZqgH/download-2-2.png" group-title="T-Play Telugu",Telugu: ETV Plus
+https://playlist-alpha-steel.vercel.app/api/play?id=242
 
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA TELUGU",IN: Raj Music Telugu
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=243
+#EXTINF:-1 tvg-logo="" group-title="T-Play Telugu",: Raj Music Telugu
+https://playlist-alpha-steel.vercel.app/api/play?id=243
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1RMqwkk/download-3.png" group-title="AMAIRA TELUGU",Telugu: Vissa TV
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=244
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1RMqwkk/download-3.png" group-title="T-Play Telugu",Telugu: Vissa TV
+https://playlist-alpha-steel.vercel.app/api/play?id=244
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9336p4j/download.png" group-title="AMAIRA TELUGU",Telugu: Zee Telugu HD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=1605
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9336p4j/download.png" group-title="T-Play Telugu",Telugu: Zee Telugu
+https://playlist-alpha-steel.vercel.app/api/play?id=1605
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Lk5p3Zc/download-27.png" group-title="AMAIRA TELUGU",Telugu: DD Saptagiri
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=4053
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lk5p3Zc/download-27.png" group-title="T-Play Telugu",Telugu: DD Saptagiri
+https://playlist-alpha-steel.vercel.app/api/play?id=4053
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/72grYNk/Star-maa-logo-2023.png" group-title="AMAIRA TELUGU",Telugu: STAR MAA MOVIES HD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=9015
+#EXTINF:-1 tvg-logo="https://i.ibb.co/72grYNk/Star-maa-logo-2023.png" group-title="T-Play Telugu",Telugu: STAR MAA MOVIES
+https://playlist-alpha-steel.vercel.app/api/play?id=9015
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jhL5mtq/download.png" group-title="AMAIRA TELUGU",Telugu: Zee Cinemalu HD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=9016
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jhL5mtq/download.png" group-title="T-Play Telugu",Telugu: Zee Cinemalu
+https://playlist-alpha-steel.vercel.app/api/play?id=9016
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r3vmJq9/download-4.png" group-title="AMAIRA TELUGU",Telugu: Etv HD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=9017
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r3vmJq9/download-4.png" group-title="T-Play Telugu",Telugu: Etv
+https://playlist-alpha-steel.vercel.app/api/play?id=9017
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CQhttzT/download-25.png" group-title="AMAIRA TELUGU",Telugu: GEMINI COMEDY HD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=9042
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CQhttzT/download-25.png" group-title="T-Play Telugu",Telugu: GEMINI COMEDY
+https://playlist-alpha-steel.vercel.app/api/play?id=9042
 
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA TELUGU",Telugu: STAR MAA GOLD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=9043
+#EXTINF:-1 tvg-logo="" group-title="T-Play Telugu",Telugu: STAR MAA GOLD
+https://playlist-alpha-steel.vercel.app/api/play?id=9043
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vXYWqvD/download-24.png" group-title="AMAIRA TELUGU",Telugu: GEMINI LIFE HD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=9044
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vXYWqvD/download-24.png" group-title="T-Play Telugu",Telugu: GEMINI LIFE
+https://playlist-alpha-steel.vercel.app/api/play?id=9044
 
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/curlimg2.jpg" group-title="AMAIRA TELUGU",Telugu: ETV Cinema (4K)
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=9045
+#EXTINF:-1 tvg-logo="" group-title="T-Play Telugu",Telugu: ETV Cinema
+https://playlist-alpha-steel.vercel.app/api/play?id=9045
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r3vmJq9/download-4.png" group-title="AMAIRA TELUGU",Telugu: ETV AndhraPradesh
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=9046
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r3vmJq9/download-4.png" group-title="T-Play Telugu",Telugu: ETV AndhraPradesh
+https://playlist-alpha-steel.vercel.app/api/play?id=9046
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3twTsx/download-3-2.png" group-title="AMAIRA TELUGU",Telugu: TV9 NEWS HD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=9047
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3twTsx/download-3-2.png" group-title="T-Play Telugu",Telugu: TV9 NEWS
+https://playlist-alpha-steel.vercel.app/api/play?id=9047
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DwR6K3W/download-28.png" group-title="AMAIRA TELUGU",Telugu: Sakshi TV (News)
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=9048
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DwR6K3W/download-28.png" group-title="T-Play Telugu",Telugu: Sakshi TV
+https://playlist-alpha-steel.vercel.app/api/play?id=9048
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1Ttjk2f/download-20.png" group-title="AMAIRA TELUGU",Telugu: T News HD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=9049
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Ttjk2f/download-20.png" group-title="T-Play Telugu",Telugu: T News
+https://playlist-alpha-steel.vercel.app/api/play?id=9049
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrtbTfN/download-19.png" group-title="AMAIRA TELUGU",Telugu: ETV Telangana
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=9050
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrtbTfN/download-19.png" group-title="T-Play Telugu",Telugu: ETV Telangana
+https://playlist-alpha-steel.vercel.app/api/play?id=9050
 
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA TELUGU",Telugu: ETV Life
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=9052
+#EXTINF:-1 tvg-logo="" group-title="T-Play Telugu",Telugu: ETV Life
+https://playlist-alpha-steel.vercel.app/api/play?id=9052
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nr1Kz3J/download-5.png" group-title="AMAIRA TELUGU",Telugu: ETV Abhiruchi
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=9053
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nr1Kz3J/download-5.png" group-title="T-Play Telugu",Telugu: ETV Abhiruchi
+https://playlist-alpha-steel.vercel.app/api/play?id=9053
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qjCHLvw/download-2.png" group-title="AMAIRA TELUGU",Telugu: SVBC HD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=9054
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qjCHLvw/download-2.png" group-title="T-Play Telugu",Telugu: SVBC
+https://playlist-alpha-steel.vercel.app/api/play?id=9054
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r3vmJq9/download-4.png" group-title="AMAIRA TELUGU",Telugu: ETV (FHD)
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=23312
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r3vmJq9/download-4.png" group-title="T-Play Telugu",Telugu: ETV
+https://playlist-alpha-steel.vercel.app/api/play?id=23312
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yn807cB/download-21.png" group-title="AMAIRA TELUGU",Telugu: STAR-MAA (FHD)
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=23313
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yn807cB/download-21.png" group-title="T-Play Telugu",Telugu: STAR-MAA
+https://playlist-alpha-steel.vercel.app/api/play?id=23313
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Star_Maa_Movies.jpg/revision/latest/scale-to-width-down/340?cb=20180531131824" group-title="AMAIRA TELUGU",Telugu: STAR-MAA-MOVIE (FHD)
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=23314
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Star_Maa_Movies.jpg/revision/latest/scale-to-width-down/340?cb=20180531131824" group-title="T-Play Telugu",Telugu: STAR-MAA-MOVIE
+https://playlist-alpha-steel.vercel.app/api/play?id=23314
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SKJQvqR/Gemini-TV.png" group-title="AMAIRA TELUGU",Telugu: GEMINI (FHD)
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=23315
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SKJQvqR/Gemini-TV.png" group-title="T-Play Telugu",Telugu: GEMINI
+https://playlist-alpha-steel.vercel.app/api/play?id=23315
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9336p4j/download.png" group-title="AMAIRA TELUGU",Telugu: ZEE-TELUGU (FHD)
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=23316
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9336p4j/download.png" group-title="T-Play Telugu",Telugu: ZEE-TELUGU
+https://playlist-alpha-steel.vercel.app/api/play?id=23316
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jhL5mtq/download.png" group-title="AMAIRA TELUGU",Telugu: ZEE-CINEMALU (FHD)
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=23317
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jhL5mtq/download.png" group-title="T-Play Telugu",Telugu: ZEE-CINEMALU
+https://playlist-alpha-steel.vercel.app/api/play?id=23317
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XbJL5xt/download-1-1.png" group-title="AMAIRA TELUGU",Telugu: BHAKTI TV
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=34581
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XbJL5xt/download-1-1.png" group-title="T-Play Telugu",Telugu: BHAKTI TV
+https://playlist-alpha-steel.vercel.app/api/play?id=34581
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xMfFBH4/download-2.png" group-title="AMAIRA TELUGU",TELUGU:  RAJ NEWS
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=52504
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xMfFBH4/download-2.png" group-title="T-Play Telugu",TELUGU: RAJ NEWS
+https://playlist-alpha-steel.vercel.app/api/play?id=52504
 
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA TELUGU",TELUGU: Star Maa Music
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=57772
+#EXTINF:-1 tvg-logo="" group-title="T-Play Telugu",TELUGU: Star Maa Music
+https://playlist-alpha-steel.vercel.app/api/play?id=57772
 
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/curlimg2.jpg" group-title="AMAIRA TELUGU",Telugu: GEMINI MOVIE (4K)
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=23797
+#EXTINF:-1 tvg-logo="" group-title="T-Play Telugu",Telugu: GEMINI MOVIE
+https://playlist-alpha-steel.vercel.app/api/play?id=23797
 
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/curlimg2.jpg" group-title="AMAIRA TELUGU",Telugu: GEMINI MUSIC (4K)
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=23796
+#EXTINF:-1 tvg-logo="" group-title="T-Play Telugu",Telugu: GEMINI MUSIC
+https://playlist-alpha-steel.vercel.app/api/play?id=23796
 
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA TELUGU",Telugu: Aradana SD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=355093
+#EXTINF:-1 tvg-logo="" group-title="T-Play Telugu",Telugu: Aradana
+https://playlist-alpha-steel.vercel.app/api/play?id=355093
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F3BvTdG/images-1.png" group-title="AMAIRA TELUGU",TELUGU: Kushi TV SD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=355504
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F3BvTdG/images-1.png" group-title="T-Play Telugu",TELUGU: Kushi TV
+https://playlist-alpha-steel.vercel.app/api/play?id=355504
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-telugu-news-in.png" group-title="AMAIRA TELUGU",TL: Zee Telugu News
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=380447
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-telugu-news-in.png" group-title="T-Play Telugu",TL: Zee Telugu News
+https://playlist-alpha-steel.vercel.app/api/play?id=380447
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/24hr-services-with-clock-scale_66219-761.jpg?w=2000" group-title="AMAIRA TELUGU MOVIES 24/7",24/7: Telugu_2022_2021_Collection_vol_1
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=121374
-
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA TELUGU MOVIES 24/7",TELUGU-MOVIES 1 HD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=136457
-
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA TELUGU MOVIES 24/7",TELUGU-MOVIES 2 HD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=136458
-
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA TELUGU MOVIES 24/7",TELUGU-MOVIES 3 HD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=136459
-
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA TELUGU MOVIES 24/7",TELUGU-MOVIES 4 HD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=136460
-
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA TELUGU MOVIES 24/7",TELUGU-EROSNOW MOVIES 1 HD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=136461
-
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA TELUGU MOVIES 24/7",TELUGU-CLASSIC MOVIES 1 HD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=136462
-
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA TELUGU MOVIES 24/7",TELUGU-CLASSIC MOVIES 2 HD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=136463
-
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA TELUGU MOVIES 24/7",TELUGU-LATTEST MOVIES 1 HD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=136464
-
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA TELUGU MOVIES 24/7",TELUGU-LATTEST MOVIES 2 HD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=136465
-
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA TELUGU MOVIES 24/7",TELUGU-ACTION DRAMA MOVIES HD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=136466
-
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA TELUGU MOVIES 24/7",TELUGU-COMEDY MOVIES HD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=136467
-
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA TELUGU MOVIES 24/7",TELUGU-ACTION CRIME MOVIES HD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=136468
-
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA TELUGU MOVIES 24/7",TELUGU-ACTION THRILLER MOVIES HD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=136469
-
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA TELUGU MOVIES 24/7",TELUGU-THRILLER MOVIES HD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=136470
-
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA TELUGU MOVIES 24/7",TELUGU-ROMANCE MOVIES HD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=136471
-
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA TELUGU MOVIES 24/7",TELUGU-MYSTERY MOVIES HD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=136472
-
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA TELUGU MOVIES 24/7",TELUGU-COMEDY ROMANCE MOVES HD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=136473
-
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA TELUGU MOVIES 24/7",TELUGU-COMEDY DRAMA MOVIES HD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=136474
-
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA TELUGU MOVIES 24/7",TELUGU-CRIME MOVIES HD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=136475
-
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA TELUGU MOVIES 24/7",TELUGU-CRIME DRAMA MOVIES HD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=136476
-
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA TELUGU MOVIES 24/7",TELUGU-DRAMA MOVIES HD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=136477
-
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA TELUGU MOVIES 24/7",TELUGU-DRAMA ROMANCE MOVIES HD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=136478
-
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA TELUGU MOVIES 24/7",TELUGU-DRAMA THRILLER MOVIES HD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=136479
-
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA TELUGU MOVIES 24/7",TELUGU-FANTASY MOVIES HD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=136480
-
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA TELUGU MOVIES 24/7",TELUGU-HORROR MOVIES HD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=136481
-
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA TELUGU MOVIES 24/7",TELUGU-HORROR THRILLER MOVIES HD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=136482
-
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA TELUGU MOVIES 24/7",TELUGU-MUSICAL MOVIES HD
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=136483
-
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA TELUGU",TL : CALVARY TV
-https://amaira.pages.dev/extrmp/amaira/play?tk=cFh0XGBRExQCAE4Ed09tQ3BYeRBiVHpDOUVzBSIeYxZG&h=KRk1GWhODFRAVV9cLQ05XCoPIUg9AHlKdQ&u=CwgvWGBSFxE&p=CwgvXGZSERU&e=ts&id=693040
+#EXTINF:-1 tvg-logo="" group-title="T-Play Telugu",TL : CALVARY TV
+https://playlist-alpha-steel.vercel.app/api/play?id=693040
